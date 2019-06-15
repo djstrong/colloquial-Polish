@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Już</orth>
+    <lex disamb="1"><base>już</base><ctag>qub</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>5</orth>
+    <lex disamb="1"><base>5</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>raz</orth>
+    <lex disamb="1"><base>raz</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>spotykamy</orth>
+    <lex disamb="1"><base>spotykać</base><ctag>fin:pl:pri:imperf</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>Desmarcie</orth>
+    <lex disamb="1"><base>Desmart</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>pogadać</orth>
+    <lex disamb="1"><base>pogadać</base><ctag>inf:perf</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>o</orth>
+    <lex disamb="1"><base>o</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>@osoba</orth>
+    <lex disamb="1"><base>@osoba</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_liv" head="1">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>!</orth>
+    <lex disamb="1"><base>!</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>React'up</orth>
+    <lex disamb="1"><base>React'up</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>pred</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>tylko</orth>
+    <lex disamb="1"><base>tylko</base><ctag>qub</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>suche</orth>
+    <lex disamb="1"><base>suchy</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>prezentacje</orth>
+    <lex disamb="1"><base>prezentacja</base><ctag>subst:pl:nom:f</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>ale</orth>
+    <lex disamb="1"><base>ale</base><ctag>conj</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>cała</orth>
+    <lex disamb="1"><base>cały</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>społeczność</orth>
+    <lex disamb="1"><base>społeczność</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>zafascynowana</orth>
+    <lex disamb="1"><base>zafascynować</base><ctag>ppas:sg:nom:f:perf:aff</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>React</orth>
+    <lex disamb="1"><base>React</base><ctag>subst:sg:inst:m3</ctag></lex>
+    <ann chan="nam_eve" head="1">1</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_eve">1</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>React</orth>
+    <lex disamb="1"><base>React</base><ctag>subst:sg:inst:m3</ctag></lex>
+    <ann chan="nam_eve">1</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>Native</orth>
+    <lex disamb="1"><base>Native</base><ctag>subst:sg:inst:m3</ctag></lex>
+    <ann chan="nam_eve">1</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>dobrymi</orth>
+    <lex disamb="1"><base>dobry</base><ctag>adj:pl:inst:f:pos</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>praktykami</orth>
+    <lex disamb="1"><base>praktyka</base><ctag>subst:pl:inst:f</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>pisaniu</orth>
+    <lex disamb="1"><base>pisać</base><ctag>ger:sg:loc:n:imperf:aff</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

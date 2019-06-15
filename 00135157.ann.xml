@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Zdjęcia</orth>
+    <lex disamb="1"><base>zdjęcie</base><ctag>subst:pl:acc:n</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>qub</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>montaż</orth>
+    <lex disamb="1"><base>montaż</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>@osoba</orth>
+    <lex disamb="1"><base>@osoba</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_liv" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>@osoba</orth>
+    <lex disamb="1"><base>@osoba</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_liv">1</ann>
+   </tok>
+   <tok>
+    <orth>@osoba</orth>
+    <lex disamb="1"><base>@osoba</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_liv">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>YouTube</orth>
+    <lex disamb="1"><base>YouTube</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org" head="1">1</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>Audio</orth>
+    <lex disamb="1"><base>audio</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <ann chan="nam_org">1</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>Library</orth>
+    <lex disamb="1"><base>library</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_org">1</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>więc</orth>
+    <lex disamb="1"><base>więc</base><ctag>conj</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>może</orth>
+    <lex disamb="1"><base>może</base><ctag>qub</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>jutro</orth>
+    <lex disamb="1"><base>jutro</base><ctag>adv</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>będzie</orth>
+    <lex disamb="1"><base>być</base><ctag>bedzie:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>możliwość</orth>
+    <lex disamb="1"><base>możliwość</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>nadania</orth>
+    <lex disamb="1"><base>nadać</base><ctag>ger:sg:gen:n:perf:aff</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>PINu</orth>
+    <lex disamb="1"><base>PIN</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_pro" head="1">1</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

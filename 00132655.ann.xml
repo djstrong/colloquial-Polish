@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Jandę</orth>
+    <lex disamb="1"><base>Janda</base><ctag>subst:sg:acc:m1</ctag></lex>
+   </tok>
+   <tok>
+    <orth>odradzam</orth>
+    <lex disamb="1"><base>odradzać</base><ctag>fin:sg:pri:imperf</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>Wyjątkowo</orth>
+    <lex disamb="1"><base>wyjątkowo</base><ctag>adv:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>przereklamowane</orth>
+    <lex disamb="1"><base>przereklamować</base><ctag>ppas:pl:nom:m3:perf:aff</ctag></lex>
+   </tok>
+   <tok>
+    <orth>kremy</orth>
+    <lex disamb="1"><base>krem</base><ctag>subst:pl:nom:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

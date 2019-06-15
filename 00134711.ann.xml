@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>@</orth>
+    <lex disamb="1"><base>@</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>@user</orth>
+    <lex disamb="1"><base>@user</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>@</orth>
+    <lex disamb="1"><base>@</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>@user</orth>
+    <lex disamb="1"><base>@user</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org" head="1">1</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>Zgadzam</orth>
+    <lex disamb="1"><base>zgadzać</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>@osoba</orth>
+    <lex disamb="1"><base>@osoba</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_liv" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>dał</orth>
+    <lex disamb="1"><base>dać</base><ctag>praet:sg:m1:perf</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>ciała</orth>
+    <lex disamb="1"><base>ciało</base><ctag>subst:pl:acc:n</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

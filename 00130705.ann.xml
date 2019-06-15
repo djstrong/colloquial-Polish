@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Huawei</orth>
+    <lex disamb="1"><base>Huawei</base><ctag>subst:sg:nom:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>P8</orth>
+    <lex disamb="1"><base>P8</base><ctag>subst:sg:nom:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Lite</orth>
+    <lex disamb="1"><base>Lite</base><ctag>subst:sg:nom:n</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>lubię</orth>
+    <lex disamb="1"><base>lubić</base><ctag>fin:sg:pri:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>polecam</orth>
+    <lex disamb="1"><base>polecać</base><ctag>fin:sg:pri:imperf</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Zamówił</orth>
+    <lex disamb="1"><base>zamówić</base><ctag>praet:sg:m1:perf</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>em</orth>
+    <lex disamb="1"><base>być</base><ctag>aglt:sg:pri:imperf:wok</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>telefon</orth>
+    <lex disamb="1"><base>telefon</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>Huawei</orth>
+    <lex disamb="1"><base>Huawei</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_pro" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>P8</orth>
+    <lex disamb="1"><base>p8</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_pro">1</ann>
+   </tok>
+   <tok>
+    <orth>Lite</orth>
+    <lex disamb="1"><base>Lite</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_pro">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>Urządzenie</orth>
+    <lex disamb="1"><base>urządzenie</base><ctag>subst:sg:acc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>otrzymał</orth>
+    <lex disamb="1"><base>otrzymać</base><ctag>praet:sg:m1:perf</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>em</orth>
+    <lex disamb="1"><base>być</base><ctag>aglt:sg:pri:imperf:wok</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>Na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
+   </tok>
+   <tok>
+    <orth>tym</orth>
+    <lex disamb="1"><base>ten</base><ctag>adj:sg:loc:m3:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>etapie</orth>
+    <lex disamb="1"><base>etap</base><ctag>subst:sg:loc:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>wszystko</orth>
+    <lex disamb="1"><base>wszystko</base><ctag>subst:sg:nom:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+   </tok>
+   <tok>
+    <orth>porządku</orth>
+    <lex disamb="1"><base>porządek</base><ctag>subst:sg:loc:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

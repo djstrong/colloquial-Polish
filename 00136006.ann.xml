@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Wsparcie</orth>
+    <lex disamb="1"><base>wsparcie</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>przez</orth>
+    <lex disamb="1"><base>przez</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>dotacje</orth>
+    <lex disamb="1"><base>dotacja</base><ctag>subst:pl:acc:f</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>@www</orth>
+    <lex disamb="1"><base>@www</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_pro" head="1">2</ann>
+   </tok>
+   <tok>
+    <orth>Nasz</orth>
+    <lex disamb="1"><base>nasz</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_pro">2</ann>
+   </tok>
+   <tok>
+    <orth>Discord</orth>
+    <lex disamb="1"><base>discord</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_pro">2</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>@www</orth>
+    <lex disamb="1"><base>@www</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_pro" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>Czego</orth>
+    <lex disamb="1"><base>co</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_pro">1</ann>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>wolno</orth>
+    <lex disamb="1"><base>wolno</base><ctag>pred</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>▻</orth>
+    <lex disamb="1"><base>▻</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>bardzo</orth>
+    <lex disamb="1"><base>bardzo</base><ctag>adv:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>wulgarne</orth>
+    <lex disamb="1"><base>wulgarny</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>pismo</orth>
+    <lex disamb="1"><base>pismo</base><ctag>subst:sg:nom:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>▻</orth>
+    <lex disamb="1"><base>▻</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>obrażanie</orth>
+    <lex disamb="1"><base>obrażać</base><ctag>ger:sg:nom:n:imperf:aff</ctag></lex>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+   </tok>
+   <tok>
+    <orth>brak</orth>
+    <lex disamb="1"><base>brak</base><ctag>subst:sg:nom:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>kultury</orth>
+    <lex disamb="1"><base>kultura</base><ctag>subst:sg:gen:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>nagradzamy</orth>
+    <lex disamb="1"><base>nagradzać</base><ctag>fin:pl:pri:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>banem</orth>
+    <lex disamb="1"><base>ban</base><ctag>subst:sg:inst:m2</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Mam</orth>
+    <lex disamb="1"><base>mieć</base><ctag>fin:sg:pri:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>parę</orth>
+    <lex disamb="1"><base>parę</base><ctag>num:pl:acc:n:rec</ctag></lex>
+   </tok>
+   <tok>
+    <orth>pytań</orth>
+    <lex disamb="1"><base>pytanie</base><ctag>subst:pl:gen:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>dotyczących</orth>
+    <lex disamb="1"><base>dotyczyć</base><ctag>pact:pl:gen:n:imperf:aff</ctag></lex>
+   </tok>
+   <tok>
+    <orth>konta</orth>
+    <lex disamb="1"><base>konto</base><ctag>subst:sg:gen:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>dewizowego</orth>
+    <lex disamb="1"><base>dewizowy</base><ctag>adj:sg:gen:n:pos</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>/</orth>
+    <lex disamb="1"><base>/</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>walutowego</orth>
+    <lex disamb="1"><base>walutowy</base><ctag>adj:sg:gen:n:pos</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

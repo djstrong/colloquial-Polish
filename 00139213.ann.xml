@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Dobry</orth>
+    <lex disamb="1"><base>dobry</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>@osoba</orth>
+    <lex disamb="1"><base>@osoba</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_liv" head="1">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>Bank</orth>
+    <lex disamb="1"><base>bank</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>oferuje</orth>
+    <lex disamb="1"><base>oferować</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>usługi</orth>
+    <lex disamb="1"><base>usługa</base><ctag>subst:pl:acc:f</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>za</orth>
+    <lex disamb="1"><base>za</base><ctag>prep:acc</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>niewielką</orth>
+    <lex disamb="1"><base>niewielki</base><ctag>adj:sg:acc:f:pos</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>miesięczną</orth>
+    <lex disamb="1"><base>miesięczny</base><ctag>adj:sg:acc:f:pos</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>opłatę</orth>
+    <lex disamb="1"><base>opłata</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>4</orth>
+    <lex disamb="1"><base>4</base><ctag>num:pl:gen:m2:congr</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>zł</orth>
+    <lex disamb="1"><base>złoty</base><ctag>brev:npun</ctag></lex>
+    <ann chan="nam_oth" head="1">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>Można</orth>
+    <lex disamb="1"><base>można</base><ctag>pred</ctag></lex>
+   </tok>
+   <tok>
+    <orth>bezpłatnie</orth>
+    <lex disamb="1"><base>bezpłatnie</base><ctag>adv:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>wykonywać</orth>
+    <lex disamb="1"><base>wykonywać</base><ctag>inf:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>przelewy</orth>
+    <lex disamb="1"><base>przelew</base><ctag>subst:pl:acc:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent4">
+   <tok>
+    <orth>Nie</orth>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>miałem</orth>
+    <lex disamb="1"><base>miałem</base><ctag>ign</ctag></lex>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+   </tok>
+   <tok>
+    <orth>nim</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:sg:inst:m3:ter:akc:praep</ctag></lex>
+   </tok>
+   <tok>
+    <orth>kłopotów</orth>
+    <lex disamb="1"><base>kłopot</base><ctag>subst:pl:gen:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent5">
+   <tok>
+    <orth>Czasami</orth>
+    <lex disamb="1"><base>czas</base><ctag>subst:pl:inst:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>była</orth>
+    <lex disamb="1"><base>być</base><ctag>praet:sg:f:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>niewielka</orth>
+    <lex disamb="1"><base>niewielki</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>trudność</orth>
+    <lex disamb="1"><base>trudność</base><ctag>subst:sg:nom:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+   </tok>
+   <tok>
+    <orth>bankowością</orth>
+    <lex disamb="1"><base>bankowość</base><ctag>subst:sg:inst:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>internetową</orth>
+    <lex disamb="1"><base>internetowy</base><ctag>adj:sg:inst:f:pos</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>ale</orth>
+    <lex disamb="1"><base>ale</base><ctag>conj</ctag></lex>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>pred</ctag></lex>
+   </tok>
+   <tok>
+    <orth>złośliwiość</orth>
+    <lex disamb="1"><base>złośliwość</base><ctag>subst:sg:nom:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>rzeczy</orth>
+    <lex disamb="1"><base>rzecz</base><ctag>subst:pl:gen:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>martwych</orth>
+    <lex disamb="1"><base>martwy</base><ctag>adj:pl:gen:f:pos</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent6">
+   <tok>
+    <orth>Ogólnie</orth>
+    <lex disamb="1"><base>ogólnie</base><ctag>adv:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>polecam</orth>
+    <lex disamb="1"><base>polecać</base><ctag>fin:sg:pri:imperf</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

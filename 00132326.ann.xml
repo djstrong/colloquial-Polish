@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>polecam</orth>
+    <lex disamb="1"><base>polecać</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>rozświetlacz</orth>
+    <lex disamb="1"><base>rozświetlacz</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>@miejsce</orth>
+    <lex disamb="1"><base>@miejsce</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_loc" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>@osoba</orth>
+    <lex disamb="1"><base>@osoba</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_liv" head="1">1</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>świetnie</orth>
+    <lex disamb="1"><base>świetnie</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>napigmentowany</orth>
+    <lex disamb="1"><base>napigmentowany</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <tok>
+    <orth>lakiery</orth>
+    <lex disamb="1"><base>lakier</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <tok>
+    <orth>paznokci</orth>
+    <lex disamb="1"><base>paznokieć</base><ctag>subst:pl:gen:m3</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <tok>
+    <orth>są</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <tok>
+    <orth>super</orth>
+    <lex disamb="1"><base>super</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <tok>
+    <orth>Wibo</orth>
+    <lex disamb="1"><base>Wibo</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_fac" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>a</orth>
+    <lex disamb="1"><base>a</base><ctag>conj</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <tok>
+    <orth>cena</orth>
+    <lex disamb="1"><base>cena</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <tok>
+    <orth>luks</orth>
+    <lex disamb="1"><base>luks</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interj</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>blank</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

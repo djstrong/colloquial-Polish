@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>PILNE</orth>
+    <lex disamb="1"><base>pilny</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>!</orth>
+    <lex disamb="1"><base>!</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>Wyziębnięty</orth>
+    <lex disamb="1"><base>wyziębnąć</base><ctag>ppas:sg:nom:m2:perf:aff</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>pies</orth>
+    <lex disamb="1"><base>pies</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>Prudnika</orth>
+    <lex disamb="1"><base>Prudnik</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_pro" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>PILNE</orth>
+    <lex disamb="1"><base>pilny</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <ann chan="nam_pro">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>!</orth>
+    <lex disamb="1"><base>!</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>PRUDNIK</orth>
+    <lex disamb="1"><base>Prudnik</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>moście</orth>
+    <lex disamb="1"><base>most</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>kierunku</orth>
+    <lex disamb="1"><base>kierunek</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>@miejsce</orth>
+    <lex disamb="1"><base>@miejsce</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="nam_loc" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>znaleziono</orth>
+    <lex disamb="1"><base>znaleźć</base><ctag>imps:perf</ctag></lex>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>skrajnie</orth>
+    <lex disamb="1"><base>skrajnie</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>wyziębionego</orth>
+    <lex disamb="1"><base>wyziębić</base><ctag>ppas:sg:acc:m2:perf:aff</ctag></lex>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>psa</orth>
+    <lex disamb="1"><base>pies</base><ctag>subst:sg:acc:m2</ctag></lex>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent4">
+   <tok>
+    <orth>Samiec</orth>
+    <lex disamb="1"><base>samiec</base><ctag>subst:sg:nom:m2</ctag></lex>
+   </tok>
+   <tok>
+    <orth>niekastrowany</orth>
+    <lex disamb="1"><base>kastrować</base><ctag>ppas:sg:nom:m2:imperf:neg</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>wiek</orth>
+    <lex disamb="1"><base>wiek</base><ctag>subst:sg:nom:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>8</orth>
+    <lex disamb="1"><base>8</base><ctag>num:pl:acc:m3:rec</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>10</orth>
+    <lex disamb="1"><base>10</base><ctag>num:pl:acc:m3:rec</ctag></lex>
+   </tok>
+   <tok>
+    <orth>lat</orth>
+    <lex disamb="1"><base>rok</base><ctag>subst:pl:gen:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>brak</orth>
+    <lex disamb="1"><base>brak</base><ctag>pred</ctag></lex>
+   </tok>
+   <tok>
+    <orth>czipa</orth>
+    <lex disamb="1"><base>czip</base><ctag>subst:sg:gen:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Kamień</orth>
+    <lex disamb="1"><base>kamień</base><ctag>subst:sg:nom:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>nazębny</orth>
+    <lex disamb="1"><base>nazębny</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>odmrożone</orth>
+    <lex disamb="1"><base>odmrozić</base><ctag>ppas:pl:nom:f:perf:aff</ctag></lex>
+   </tok>
+   <tok>
+    <orth>łapy</orth>
+    <lex disamb="1"><base>łapa</base><ctag>subst:pl:nom:f</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>pies</orth>
+    <lex disamb="1"><base>pies</base><ctag>subst:sg:nom:m2</ctag></lex>
+   </tok>
+   <tok>
+    <orth>skrajnie</orth>
+    <lex disamb="1"><base>skrajnie</base><ctag>adv:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>apatyczny</orth>
+    <lex disamb="1"><base>apatyczny</base><ctag>adj:sg:nom:m2:pos</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>cały</orth>
+    <lex disamb="1"><base>cały</base><ctag>adj:sg:nom:m2:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+   </tok>
+   <tok>
+    <orth>zlodowaciałej</orth>
+    <lex disamb="1"><base>zlodowaciały</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>sierści</orth>
+    <lex disamb="1"><base>sierść</base><ctag>subst:sg:loc:f</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent5">
+   <tok>
+    <orth>Wstępnie</orth>
+    <lex disamb="1"><base>wstępnie</base><ctag>adv:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+   </tok>
+   <tok>
+    <orth>piątku</orth>
+    <lex disamb="1"><base>piątek</base><ctag>subst:sg:gen:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>pies</orth>
+    <lex disamb="1"><base>pies</base><ctag>subst:sg:nom:m2</ctag></lex>
+   </tok>
+   <tok>
+    <orth>zabezpieczony</orth>
+    <lex disamb="1"><base>zabezpieczyć</base><ctag>ppas:sg:nom:m2:perf:aff</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>poszukujemy</orth>
+    <lex disamb="1"><base>poszukiwać</base><ctag>fin:pl:pri:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>DOMU</orth>
+    <lex disamb="1"><base>dom</base><ctag>subst:sg:gen:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>TYMCZASOWEGO</orth>
+    <lex disamb="1"><base>tymczasowy</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>WŁAŚCICIELA</orth>
+    <lex disamb="1"><base>właściciel</base><ctag>subst:sg:gen:m1</ctag></lex>
+   </tok>
+   <tok>
+    <orth>LUB</orth>
+    <lex disamb="1"><base>lub</base><ctag>conj</ctag></lex>
+   </tok>
+   <tok>
+    <orth>DOMU</orth>
+    <lex disamb="1"><base>dom</base><ctag>subst:sg:gen:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>STAŁEGO</orth>
+    <lex disamb="1"><base>stały</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Prosimy</orth>
+    <lex disamb="1"><base>prosić</base><ctag>fin:pl:pri:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>o</orth>
+    <lex disamb="1"><base>o</base><ctag>prep:acc</ctag></lex>
+   </tok>
+   <tok>
+    <orth>udostępnianie</orth>
+    <lex disamb="1"><base>udostępniać</base><ctag>ger:sg:acc:n:imperf:aff</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>!</orth>
+    <lex disamb="1"><base>!</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent6">
+   <tok>
+    <orth>kontakt</orth>
+    <lex disamb="1"><base>kontakt</base><ctag>subst:sg:nom:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent7">
+   <tok>
+    <orth>@inne</orth>
+    <lex disamb="1"><base>@inne</base><ctag>num:pl:nom:m3</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>@inne</orth>
+    <lex disamb="1"><base>@inne</base><ctag>num:pl:nom:m3</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>@inne</orth>
+    <lex disamb="1"><base>@inne</base><ctag>num:pl:nom:m3</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>ŁAPA</orth>
+    <lex disamb="1"><base>Łapa</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>Nyskie</orth>
+    <lex disamb="1"><base>Nyski</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <ann chan="nam_org">1</ann>
+   </tok>
+   <tok>
+    <orth>Pogotowie</orth>
+    <lex disamb="1"><base>Pogotowie</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_org">1</ann>
+   </tok>
+   <tok>
+    <orth>Opiekuńczo</orth>
+    <lex disamb="1"><base>Opiekuńczy</base><ctag>adja</ctag></lex>
+    <ann chan="nam_org">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>Adopcyjne</orth>
+    <lex disamb="1"><base>Adopcyjny</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <ann chan="nam_org">1</ann>
+   </tok>
+   <tok>
+    <orth>dla</orth>
+    <lex disamb="1"><base>dla</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>Zwierząt</orth>
+    <lex disamb="1"><base>Zwierzę</base><ctag>subst:pl:gen:n</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>176229919236231</orth>
+    <lex disamb="1"><base>176229919236231</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>1115959088494953</orth>
+    <lex disamb="1"><base>1115959088494953</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>176229919236231</orth>
+    <lex disamb="1"><base>176229919236231</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>742041465988404</orth>
+    <lex disamb="1"><base>742041465988404</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

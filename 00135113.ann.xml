@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Centrum</orth>
+    <lex disamb="1"><base>centrum</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>Nauki</orth>
+    <lex disamb="1"><base>nauka</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>Techniki</orth>
+    <lex disamb="1"><base>technika</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_pro" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>EC1</orth>
+    <lex disamb="1"><base>EC1</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_pro">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>umiejscowione</orth>
+    <lex disamb="1"><base>umiejscowić</base><ctag>ppas:pl:nom:n:perf:aff</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>pierwszej</orth>
+    <lex disamb="1"><base>pierwszy</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>historycznej</orth>
+    <lex disamb="1"><base>historyczny</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>zrewitalizowanej</orth>
+    <lex disamb="1"><base>zrewitalizować</base><ctag>ppas:sg:gen:f:perf:aff</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>Elektrowni</orth>
+    <lex disamb="1"><base>elektrownia</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_org" head="1">1</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>@miejsce</orth>
+    <lex disamb="1"><base>@miejsce</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="nam_org">1</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>będzie</orth>
+    <lex disamb="1"><base>być</base><ctag>bedzie:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>miejscem</orth>
+    <lex disamb="1"><base>miejsce</base><ctag>subst:sg:inst:n</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>wyjątkowym</orth>
+    <lex disamb="1"><base>wyjątkowy</base><ctag>adj:sg:inst:n:pos</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>pod</orth>
+    <lex disamb="1"><base>pod</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>wieloma</orth>
+    <lex disamb="1"><base>wiele</base><ctag>num:pl:inst:m3:congr</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>względami</orth>
+    <lex disamb="1"><base>wzgląd</base><ctag>subst:pl:inst:m3</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>To</orth>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:nom:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>właśnie</orth>
+    <lex disamb="1"><base>właśnie</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>tu</orth>
+    <lex disamb="1"><base>tu</base><ctag>adv</ctag></lex>
+   </tok>
+   <tok>
+    <orth>zabytkowa</orth>
+    <lex disamb="1"><base>zabytkowy</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

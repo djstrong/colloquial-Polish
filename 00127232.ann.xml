@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>@</orth>
+    <lex disamb="1"><base>@</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>@user</orth>
+    <lex disamb="1"><base>@user</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org" head="1">1</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>@</orth>
+    <lex disamb="1"><base>@</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">1</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>@user</orth>
+    <lex disamb="1"><base>@user</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org">1</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>A</orth>
+    <lex disamb="1"><base>a</base><ctag>interj</ctag></lex>
+    <ann chan="nam_org">1</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>Ty</orth>
+    <lex disamb="1"><base>ty</base><ctag>ppron12:sg:nom:f:sec</ctag></lex>
+    <ann chan="nam_org">1</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>głupia</orth>
+    <lex disamb="1"><base>głupi</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>jesteś</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:sec:imperf</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_liv">0</ann>
+   </tok>
+   <tok>
+    <orth>@osoba</orth>
+    <lex disamb="1"><base>@osoba</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_liv" head="1">1</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

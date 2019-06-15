@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>@</orth>
+    <lex disamb="1"><base>@</base><ctag>interp</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>@user</orth>
+    <lex disamb="1"><base>@user</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_oth" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>@</orth>
+    <lex disamb="1"><base>@</base><ctag>interp</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_oth">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>@user</orth>
+    <lex disamb="1"><base>@user</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_oth">1</ann>
+   </tok>
+   <tok>
+    <orth>Nie</orth>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>bo</orth>
+    <lex disamb="1"><base>bo</base><ctag>comp</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>polski</orth>
+    <lex disamb="1"><base>polski</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_adj" head="1">1</ann>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>bank</orth>
+    <lex disamb="1"><base>bank</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>Niech</orth>
+    <lex disamb="1"><base>niech</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>spieprzają</orth>
+    <lex disamb="1"><base>spieprzać</base><ctag>fin:pl:ter:imperf</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>przepraszam</orth>
+    <lex disamb="1"><base>przepraszać</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <tok>
+    <orth>ul</orth>
+    <lex disamb="1"><base>ulica</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <tok>
+    <orth>@miejsce</orth>
+    <lex disamb="1"><base>@miejsce</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="nam_fac" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>@miejsce</orth>
+    <lex disamb="1"><base>@miejsce</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="nam_fac">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>Oddział</orth>
+    <lex disamb="1"><base>oddział</base><ctag>subst:sg:nom:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>nr</orth>
+    <lex disamb="1"><base>numer</base><ctag>brev:npun</ctag></lex>
+   </tok>
+   <tok>
+    <orth>12</orth>
+    <lex disamb="1"><base>12</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>@</orth>
+    <lex disamb="1"><base>@</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>@user</orth>
+    <lex disamb="1"><base>@user</base><ctag>subst:sg:nom:m1</ctag></lex>
+   </tok>
+   <tok>
+    <orth>ten</orth>
+    <lex disamb="1"><base>ten</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>tweet</orth>
+    <lex disamb="1"><base>tweet</base><ctag>subst:sg:nom:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>wyjebał</orth>
+    <lex disamb="1"><base>wyjebać</base><ctag>praet:sg:m3:perf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>gejometr</orth>
+    <lex disamb="1"><base>gejometr</base><ctag>subst:sg:acc:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>poza</orth>
+    <lex disamb="1"><base>poza</base><ctag>prep:acc</ctag></lex>
+   </tok>
+   <tok>
+    <orth>skalę</orth>
+    <lex disamb="1"><base>skala</base><ctag>subst:sg:acc:f</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Sprawa</orth>
+    <lex disamb="1"><base>sprawa</base><ctag>subst:sg:nom:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>nieaktualna</orth>
+    <lex disamb="1"><base>nieaktualny</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>Pozdrawiam</orth>
+    <lex disamb="1"><base>pozdrawiać</base><ctag>fin:sg:pri:imperf</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

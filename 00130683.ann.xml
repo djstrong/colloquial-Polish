@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Nie</orth>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>mogę</orth>
+    <lex disamb="1"><base>móc</base><ctag>fin:sg:pri:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>polecić</orth>
+    <lex disamb="1"><base>polecić</base><ctag>inf:perf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Ci</orth>
+    <lex disamb="1"><base>ty</base><ctag>ppron12:sg:dat:m1:sec:nakc</ctag></lex>
+   </tok>
+   <tok>
+    <orth>żadnej</orth>
+    <lex disamb="1"><base>żaden</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>marki</orth>
+    <lex disamb="1"><base>marka</base><ctag>subst:sg:gen:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>ponieważ</orth>
+    <lex disamb="1"><base>ponieważ</base><ctag>comp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>liczą</orth>
+    <lex disamb="1"><base>liczyć</base><ctag>fin:pl:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>konkretne</orth>
+    <lex disamb="1"><base>konkretny</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>modele</orth>
+    <lex disamb="1"><base>model</base><ctag>subst:pl:nom:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>Jak</orth>
+    <lex disamb="1"><base>jak</base><ctag>adv</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>1000</orth>
+    <lex disamb="1"><base>1000</base><ctag>num:pl:gen:m2:congr</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>zł</orth>
+    <lex disamb="1"><base>złoty</base><ctag>brev:npun</ctag></lex>
+    <ann chan="nam_oth" head="1">1</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>comp</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>Huawei</orth>
+    <lex disamb="1"><base>Huawei</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+    <ann chan="nam_pro" head="1">2</ann>
+   </tok>
+   <tok>
+    <orth>P8</orth>
+    <lex disamb="1"><base>P8</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+    <ann chan="nam_pro">2</ann>
+   </tok>
+   <tok>
+    <orth>Lite</orth>
+    <lex disamb="1"><base>Lite</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+    <ann chan="nam_pro">2</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>Sony</orth>
+    <lex disamb="1"><base>Sony</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+    <ann chan="nam_pro" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>Xperia</orth>
+    <lex disamb="1"><base>Xperia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+    <ann chan="nam_pro">1</ann>
+   </tok>
+   <tok>
+    <orth>M4</orth>
+    <lex disamb="1"><base>M4</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+    <ann chan="nam_pro">1</ann>
+   </tok>
+   <tok>
+    <orth>Aqua</orth>
+    <lex disamb="1"><base>Aqua</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+    <ann chan="nam_pro">1</ann>
+   </tok>
+   <tok>
+    <orth>lub</orth>
+    <lex disamb="1"><base>lub</base><ctag>conj</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+    <ann chan="nam_pro">1</ann>
+   </tok>
+   <tok>
+    <orth>LG</orth>
+    <lex disamb="1"><base>LG</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+    <ann chan="nam_pro">1</ann>
+   </tok>
+   <tok>
+    <orth>G2</orth>
+    <lex disamb="1"><base>G2</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+    <ann chan="nam_pro">1</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

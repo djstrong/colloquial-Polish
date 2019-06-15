@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Poproszę</orth>
+    <lex disamb="1"><base>poprosić</base><ctag>fin:sg:pri:perf</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>1000000000000000000000000000000000</orth>
+    <lex disamb="1"><base>1000000000000000000000000000000000</base><ctag>num:pl:acc:m2:rec</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>złotych</orth>
+    <lex disamb="1"><base>złoty</base><ctag>subst:pl:gen:m2</ctag></lex>
+    <ann chan="nam_oth" head="1">1</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

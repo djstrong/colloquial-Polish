@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Życie</orth>
+    <lex disamb="1"><base>życie</base><ctag>subst:sg:nom:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>ma</orth>
+    <lex disamb="1"><base>mieć</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>sens</orth>
+    <lex disamb="1"><base>sens</base><ctag>subst:sg:acc:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>To</orth>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:acc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>inspirujące</orth>
+    <lex disamb="1"><base>inspirujący</base><ctag>adj:sg:acc:n:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+   </tok>
+   <tok>
+    <orth>głęboko</orth>
+    <lex disamb="1"><base>głęboko</base><ctag>adv:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>duchowe</orth>
+    <lex disamb="1"><base>duchowy</base><ctag>adj:pl:acc:n:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>spotkania</orth>
+    <lex disamb="1"><base>spotkanie</base><ctag>subst:pl:acc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>dotyczące</orth>
+    <lex disamb="1"><base>dotyczyć</base><ctag>pact:pl:nom:n:imperf:aff</ctag></lex>
+   </tok>
+   <tok>
+    <orth>poszukiwania</orth>
+    <lex disamb="1"><base>poszukiwanie</base><ctag>subst:sg:gen:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>wartości</orth>
+    <lex disamb="1"><base>wartość</base><ctag>subst:sg:gen:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+   </tok>
+   <tok>
+    <orth>sensu</orth>
+    <lex disamb="1"><base>sens</base><ctag>subst:sg:gen:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>życia</orth>
+    <lex disamb="1"><base>życie</base><ctag>subst:sg:gen:n</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>Kościół</orth>
+    <lex disamb="1"><base>kościół</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_fac" head="1">1</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>Adwentystów</orth>
+    <lex disamb="1"><base>Adwentysta</base><ctag>subst:pl:gen:m1</ctag></lex>
+    <ann chan="nam_fac">1</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>Dnia</orth>
+    <lex disamb="1"><base>Dzień</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_fac">1</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>Siódmego</orth>
+    <lex disamb="1"><base>Siódmy</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_fac">1</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>zbór</orth>
+    <lex disamb="1"><base>zbór</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>@miejsce</orth>
+    <lex disamb="1"><base>@miejsce</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_loc" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>04</orth>
+    <lex disamb="1"><base>04</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>26</orth>
+    <lex disamb="1"><base>26</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>11</orth>
+    <lex disamb="1"><base>11</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>2017</orth>
+    <lex disamb="1"><base>2017</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

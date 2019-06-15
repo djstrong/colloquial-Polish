@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>@miejsce</orth>
+    <lex disamb="1"><base>@miejsce</base><ctag>subst:sg:nom:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>zimą</orth>
+    <lex disamb="1"><base>zima</base><ctag>subst:sg:inst:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>zasypia</orth>
+    <lex disamb="1"><base>zasypiać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>!</orth>
+    <lex disamb="1"><base>!</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>Zapraszamy</orth>
+    <lex disamb="1"><base>zapraszać</base><ctag>fin:pl:pri:imperf</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>Supraski</orth>
+    <lex disamb="1"><base>supraski</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <ann chan="nam_eve" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>Karnawał</orth>
+    <lex disamb="1"><base>karnawał</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_eve">1</ann>
+   </tok>
+   <tok>
+    <orth>Różnorodności</orth>
+    <lex disamb="1"><base>różnorodność</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_eve">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>może</orth>
+    <lex disamb="1"><base>może</base><ctag>qub</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>końca</orth>
+    <lex disamb="1"><base>koniec</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>Slow</orth>
+    <lex disamb="1"><base>Slow</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>ale</orth>
+    <lex disamb="1"><base>ale</base><ctag>conj</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>ciągle</orth>
+    <lex disamb="1"><base>ciągle</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>różnorodnie</orth>
+    <lex disamb="1"><base>różnorodnie</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>wielokulturowo</orth>
+    <lex disamb="1"><base>wielokulturowo</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>magicznie</orth>
+    <lex disamb="1"><base>magicznie</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>!</orth>
+    <lex disamb="1"><base>!</base><ctag>interp</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>@www</orth>
+    <lex disamb="1"><base>@www</base><ctag>subst:sg:nom:m3</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

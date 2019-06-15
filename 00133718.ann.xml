@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Oglądam</orth>
+    <lex disamb="1"><base>oglądać</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>The</orth>
+    <lex disamb="1"><base>the</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_pro" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>end</orth>
+    <lex disamb="1"><base>end</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_pro">1</ann>
+   </tok>
+   <tok>
+    <orth>of</orth>
+    <lex disamb="1"><base>of</base><ctag>xxx</ctag></lex>
+    <ann chan="nam_pro">1</ann>
+   </tok>
+   <tok>
+    <orth>the</orth>
+    <lex disamb="1"><base>the</base><ctag>xxx</ctag></lex>
+    <ann chan="nam_pro">1</ann>
+   </tok>
+   <tok>
+    <orth>fucking</orth>
+    <lex disamb="1"><base>fucking</base><ctag>xxx</ctag></lex>
+    <ann chan="nam_pro">1</ann>
+   </tok>
+   <tok>
+    <orth>world</orth>
+    <lex disamb="1"><base>world</base><ctag>xxx</ctag></lex>
+    <ann chan="nam_pro">1</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Projekt</orth>
+    <lex disamb="1"><base>projekt</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>dofinansowany</orth>
+    <lex disamb="1"><base>dofinansować</base><ctag>ppas:sg:nom:m3:perf:aff</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>ze</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:wok</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>środków</orth>
+    <lex disamb="1"><base>środek</base><ctag>subst:pl:gen:m3</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>Programu</orth>
+    <lex disamb="1"><base>program</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_eve" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>FIO</orth>
+    <lex disamb="1"><base>FIO</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_eve">1</ann>
+   </tok>
+   <tok>
+    <orth>@miejsce</orth>
+    <lex disamb="1"><base>@miejsce</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_eve">1</ann>
+   </tok>
+   <tok>
+    <orth>Lokalnie</orth>
+    <lex disamb="1"><base>lokalnie</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_eve">1</ann>
+   </tok>
+   <tok>
+    <orth>zakładał</orth>
+    <lex disamb="1"><base>zakładać</base><ctag>praet:sg:m3:imperf</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>wsparcie</orth>
+    <lex disamb="1"><base>wesprzeć</base><ctag>ger:sg:acc:n:perf:aff</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>rozwoju</orth>
+    <lex disamb="1"><base>rozwój</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>Fundacji</orth>
+    <lex disamb="1"><base>fundacja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_org" head="1">1</ann>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>Kultura</orth>
+    <lex disamb="1"><base>kultura</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org">1</ann>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org">1</ann>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>Miejsce</orth>
+    <lex disamb="1"><base>miejsce</base><ctag>subst:sg:acc:n</ctag></lex>
+    <ann chan="nam_org">1</ann>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>poprzez</orth>
+    <lex disamb="1"><base>poprzez</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>zakup</orth>
+    <lex disamb="1"><base>zakupić</base><ctag>impt:sg:sec:perf</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>sprzętu</orth>
+    <lex disamb="1"><base>sprzęt</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>oraz</orth>
+    <lex disamb="1"><base>oraz</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>szkolenia</orth>
+    <lex disamb="1"><base>szkolenie</base><ctag>subst:pl:acc:n</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>księgowości</orth>
+    <lex disamb="1"><base>księgowość</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <tok>
+    <orth>zarządzania</orth>
+    <lex disamb="1"><base>zarządzanie</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_eve">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

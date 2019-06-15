@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Aplikacja</orth>
+    <lex disamb="1"><base>aplikacja</base><ctag>subst:sg:nom:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>mobilna</orth>
+    <lex disamb="1"><base>mobilny</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+   </tok>
+   <tok>
+    <orth>mBanku</orth>
+    <lex disamb="1"><base>mBank</base><ctag>subst:sg:loc:m3</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

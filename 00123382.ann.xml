@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>OSTRZEŻENIE</orth>
+    <lex disamb="1"><base>ostrzeżenie</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>UWAGA</orth>
+    <lex disamb="1"><base>uwaga</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org" head="1">3</ann>
+   </tok>
+   <tok>
+    <orth>NA</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="nam_org">3</ann>
+   </tok>
+   <tok>
+    <orth>GETIN</orth>
+    <lex disamb="1"><base>Getin</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_org">3</ann>
+   </tok>
+   <tok>
+    <orth>BANK</orth>
+    <lex disamb="1"><base>Bank</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_org">3</ann>
+   </tok>
+   <tok>
+    <orth>OSTRZEGAM</orth>
+    <lex disamb="1"><base>ostrzegać</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="nam_org">3</ann>
+   </tok>
+   <tok>
+    <orth>WSZYSTKICH</orth>
+    <lex disamb="1"><base>wszystek</base><ctag>adj:pl:acc:m1:pos</ctag></lex>
+    <ann chan="nam_org">3</ann>
+   </tok>
+   <tok>
+    <orth>CHCĄCYCH</orth>
+    <lex disamb="1"><base>chcieć</base><ctag>pact:pl:acc:m1:imperf:aff</ctag></lex>
+    <ann chan="nam_org">3</ann>
+   </tok>
+   <tok>
+    <orth>ZAROBIĆ</orth>
+    <lex disamb="1"><base>zarobić</base><ctag>inf:perf</ctag></lex>
+    <ann chan="nam_org">3</ann>
+   </tok>
+   <tok>
+    <orth>NA</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_org">3</ann>
+   </tok>
+   <tok>
+    <orth>POLISOLOKATACH</orth>
+    <lex disamb="1"><base>polisolokata</base><ctag>subst:pl:loc:f</ctag></lex>
+    <ann chan="nam_org">3</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>PRODUKTACH</orth>
+    <lex disamb="1"><base>produkt</base><ctag>subst:pl:loc:m3</ctag></lex>
+    <ann chan="nam_org" head="1">2</ann>
+   </tok>
+   <tok>
+    <orth>DŁUGOTERMINOWYCH</orth>
+    <lex disamb="1"><base>długoterminowy</base><ctag>adj:pl:loc:m3:pos</ctag></lex>
+    <ann chan="nam_org">2</ann>
+   </tok>
+   <tok>
+    <orth>CZY</orth>
+    <lex disamb="1"><base>czy</base><ctag>conj</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>JAK</orth>
+    <lex disamb="1"><base>jak</base><ctag>adv</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>BY</orth>
+    <lex disamb="1"><base>by</base><ctag>qub</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>ICH</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:pl:gen:m3:ter:akc:npraep</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>NIE</orth>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>NAZYWALI</orth>
+    <lex disamb="1"><base>nazywać</base><ctag>praet:pl:m1:imperf</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>W</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>GETIN</orth>
+    <lex disamb="1"><base>Getin</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>BANKU</orth>
+    <lex disamb="1"><base>Bank</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>Nie</orth>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>dajcie</orth>
+    <lex disamb="1"><base>dać</base><ctag>impt:pl:sec:perf</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>namówić</orth>
+    <lex disamb="1"><base>namówić</base><ctag>inf:perf</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>żadne</orth>
+    <lex disamb="1"><base>żaden</base><ctag>adj:pl:acc:m3:pos</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>produkty</orth>
+    <lex disamb="1"><base>produkt</base><ctag>subst:pl:acc:m3</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>GETIN</orth>
+    <lex disamb="1"><base>Getin</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>BANKU</orth>
+    <lex disamb="1"><base>Bank</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org">1</ann>
+   </tok>
+   <tok>
+    <orth>chociaż</orth>
+    <lex disamb="1"><base>chociaż</base><ctag>comp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>proponują</orth>
+    <lex disamb="1"><base>proponować</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>przy</orth>
+    <lex disamb="1"><base>przy</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>nich</orth>
+    <lex disamb="1"><base>on</base><ctag>ppron3:pl:loc:m3:ter:akc:praep</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>lokaty</orth>
+    <lex disamb="1"><base>lokata</base><ctag>subst:pl:acc:f</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>wyżej</orth>
+    <lex disamb="1"><base>wysoko</base><ctag>adv:com</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>oprocentowane</orth>
+    <lex disamb="1"><base>oprocentować</base><ctag>ppas:pl:acc:f:perf:aff</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>Zapewniam</orth>
+    <lex disamb="1"><base>zapewniać</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>wszystkich</orth>
+    <lex disamb="1"><base>wszyscy</base><ctag>subst:pl:acc:m1</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>nikt</orth>
+    <lex disamb="1"><base>nikt</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>takich</orth>
+    <lex disamb="1"><base>taki</base><ctag>adj:pl:loc:m3:pos</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>produktach</orth>
+    <lex disamb="1"><base>produkt</base><ctag>subst:pl:loc:m3</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>zarobił</orth>
+    <lex disamb="1"><base>zarobić</base><ctag>praet:sg:m1:perf</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>zarobi</orth>
+    <lex disamb="1"><base>zarobić</base><ctag>fin:sg:ter:perf</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>Ja</orth>
+    <lex disamb="1"><base>ja</base><ctag>ppron12:sg:nom:m1:pri</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>stracił</orth>
+    <lex disamb="1"><base>stracić</base><ctag>praet:sg:m1:perf</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>em</orth>
+    <lex disamb="1"><base>być</base><ctag>aglt:sg:pri:perf:wok</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>kilka</orth>
+    <lex disamb="1"><base>kilka</base><ctag>num:pl:acc:m3:rec</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>tysięcy</orth>
+    <lex disamb="1"><base>tysiąc</base><ctag>subst:pl:gen:m2</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+   <tok>
+    <orth>złotych</orth>
+    <lex disamb="1"><base>złoty</base><ctag>subst:pl:gen:m2</ctag></lex>
+    <ann chan="nam_oth" head="1">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent4">
+   <tok>
+    <orth>Wejdź</orth>
+    <lex disamb="1"><base>wejść</base><ctag>impt:sg:sec:perf</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>stronę</orth>
+    <lex disamb="1"><base>strona</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>wrobieni</orth>
+    <lex disamb="1"><base>wrobić</base><ctag>ppas:pl:nom:m1:perf:aff</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>Getin</orth>
+    <lex disamb="1"><base>Getin</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>Banku</orth>
+    <lex disamb="1"><base>Bank</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <ann chan="nam_org">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Największym</orth>
+    <lex disamb="1"><base>duży</base><ctag>adj:sg:inst:n:sup</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+   </tok>
+   <tok>
+    <orth>ryzykiem</orth>
+    <lex disamb="1"><base>ryzyko</base><ctag>subst:sg:inst:n</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+   </tok>
+   <tok>
+    <orth>dla</orth>
+    <lex disamb="1"><base>dla</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+   </tok>
+   <tok>
+    <orth>polskiego</orth>
+    <lex disamb="1"><base>polski</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+   </tok>
+   <tok>
+    <orth>przemysłu</orth>
+    <lex disamb="1"><base>przemysł</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+   </tok>
+   <tok>
+    <orth>pozostaje</orth>
+    <lex disamb="1"><base>pozostawać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+   </tok>
+   <tok>
+    <orth>naszej</orth>
+    <lex disamb="1"><base>nasz</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+   </tok>
+   <tok>
+    <orth>ocenie</orth>
+    <lex disamb="1"><base>ocena</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+   </tok>
+   <tok>
+    <orth>spowolnienie</orth>
+    <lex disamb="1"><base>spowolnić</base><ctag>ger:sg:nom:n:perf:aff</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+   </tok>
+   <tok>
+    <orth>niemieckiej</orth>
+    <lex disamb="1"><base>niemiecki</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+    <ann chan="nam_adj" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>gospodarce</orth>
+    <lex disamb="1"><base>gospodarka</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_adj">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>Wszystkie</orth>
+    <lex disamb="1"><base>wszystek</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>główne</orth>
+    <lex disamb="1"><base>główny</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>wskaźniki</orth>
+    <lex disamb="1"><base>wskaźnik</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>ZEW</orth>
+    <lex disamb="1"><base>ZEW</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>IFO</orth>
+    <lex disamb="1"><base>IFO</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org" head="1">2</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>PMI</orth>
+    <lex disamb="1"><base>PMI</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org" head="1">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>jednoznacznie</orth>
+    <lex disamb="1"><base>jednoznacznie</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>wskazują</orth>
+    <lex disamb="1"><base>wskazywać</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>spadek</orth>
+    <lex disamb="1"><base>spadek</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>optymizmu</orth>
+    <lex disamb="1"><base>optymizm</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>za</orth>
+    <lex disamb="1"><base>za</base><ctag>prep:inst</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>naszą</orth>
+    <lex disamb="1"><base>nasz</base><ctag>adj:sg:inst:f:pos</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>zachodnią</orth>
+    <lex disamb="1"><base>zachodni</base><ctag>adj:sg:inst:f:pos</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>granicą</orth>
+    <lex disamb="1"><base>granica</base><ctag>subst:sg:inst:f</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>@www</orth>
+    <lex disamb="1"><base>@www</base><ctag>subst:sg:nom:m3</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

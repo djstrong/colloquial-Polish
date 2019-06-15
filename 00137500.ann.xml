@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Panie</orth>
+    <lex disamb="1"><base>pan</base><ctag>subst:sg:voc:m1</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>@osoba</orth>
+    <lex disamb="1"><base>@osoba</base><ctag>subst:sg:voc:m1</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv" head="1">1</ann>
+    <ann chan="nam_num">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>adres</orth>
+    <lex disamb="1"><base>adres</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>naszej</orth>
+    <lex disamb="1"><base>nasz</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>stronie</orth>
+    <lex disamb="1"><base>strona</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>internetowej</orth>
+    <lex disamb="1"><base>internetowy</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>Inteligo</orth>
+    <lex disamb="1"><base>Inteligo</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_org" head="1">1</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>Powszechna</orth>
+    <lex disamb="1"><base>powszechny</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="nam_org">1</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>Kasa</orth>
+    <lex disamb="1"><base>kasa</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org">1</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>Oszczędności</orth>
+    <lex disamb="1"><base>oszczędność</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_org">1</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>Bank</orth>
+    <lex disamb="1"><base>bank</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_org">1</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>Polski</orth>
+    <lex disamb="1"><base>polski</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_org">1</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>Spółka</orth>
+    <lex disamb="1"><base>spółka</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org">1</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>Akcyjna</orth>
+    <lex disamb="1"><base>akcyjny</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="nam_org">1</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>ul</orth>
+    <lex disamb="1"><base>ulica</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>@miejsce</orth>
+    <lex disamb="1"><base>@miejsce</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_fac" head="1">1</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>@miejsce</orth>
+    <lex disamb="1"><base>@miejsce</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num" head="1">1</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>@miejsce</orth>
+    <lex disamb="1"><base>@miejsce</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num">1</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>@miejsce</orth>
+    <lex disamb="1"><base>@miejsce</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num">1</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>@miejsce</orth>
+    <lex disamb="1"><base>@miejsce</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num">1</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>@miejsce</orth>
+    <lex disamb="1"><base>@miejsce</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org">0</ann>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_num">0</ann>
+    <ann chan="nam_loc" head="1">1</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Debet</orth>
+    <lex disamb="1"><base>debet</base><ctag>subst:sg:nom:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>dopuszczalne</orth>
+    <lex disamb="1"><base>dopuszczalny</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>saldo</orth>
+    <lex disamb="1"><base>saldo</base><ctag>subst:sg:nom:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>1000</orth>
+    <lex disamb="1"><base>1000</base><ctag>num:pl:acc:m2:rec</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>A</orth>
+    <lex disamb="1"><base>a</base><ctag>conj</ctag></lex>
+   </tok>
+   <tok>
+    <orth>można</orth>
+    <lex disamb="1"><base>można</base><ctag>pred</ctag></lex>
+   </tok>
+   <tok>
+    <orth>wypłacać</orth>
+    <lex disamb="1"><base>wypłacać</base><ctag>inf:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>małe</orth>
+    <lex disamb="1"><base>mały</base><ctag>adj:pl:acc:m3:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>nominały</orth>
+    <lex disamb="1"><base>nominał</base><ctag>subst:pl:acc:m3</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

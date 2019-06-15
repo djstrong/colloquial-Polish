@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Bardzo</orth>
+    <lex disamb="1"><base>bardzo</base><ctag>adv:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>dobre</orth>
+    <lex disamb="1"><base>dobry</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>sa</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:pl:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Rossmanowskie</orth>
+    <lex disamb="1"><base>rossmanowskie</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>kosmetyki</orth>
+    <lex disamb="1"><base>kosmetyk</base><ctag>subst:pl:nom:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>tylko</orth>
+    <lex disamb="1"><base>tylko</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>pieluchy</orth>
+    <lex disamb="1"><base>pielucha</base><ctag>subst:pl:nom:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>są</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:pl:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+   </tok>
+   <tok>
+    <orth>kitu</orth>
+    <lex disamb="1"><base>kit</base><ctag>subst:sg:gen:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>Nie</orth>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <tok>
+    <orth>polecam</orth>
+    <lex disamb="1"><base>polecać</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <tok>
+    <orth>natomiast</orth>
+    <lex disamb="1"><base>natomiast</base><ctag>conj</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <tok>
+    <orth>Nivea</orth>
+    <lex disamb="1"><base>Nivea</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_fac" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>Baby</orth>
+    <lex disamb="1"><base>Baby</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_fac">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <tok>
+    <orth>żel</orth>
+    <lex disamb="1"><base>żel</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <tok>
+    <orth>kąpania</orth>
+    <lex disamb="1"><base>kąpać</base><ctag>ger:sg:gen:n:imperf:aff</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <tok>
+    <orth>bo</orth>
+    <lex disamb="1"><base>bo</base><ctag>comp</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <tok>
+    <orth>mojemu</orth>
+    <lex disamb="1"><base>mój</base><ctag>adj:sg:dat:n:pos</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <tok>
+    <orth>dziecku</orth>
+    <lex disamb="1"><base>dziecko</base><ctag>subst:sg:dat:n</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <tok>
+    <orth>strasznie</orth>
+    <lex disamb="1"><base>strasznie</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <tok>
+    <orth>wysuszył</orth>
+    <lex disamb="1"><base>wysuszyć</base><ctag>praet:sg:m1:perf</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+   <tok>
+    <orth>skórę</orth>
+    <lex disamb="1"><base>skóra</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

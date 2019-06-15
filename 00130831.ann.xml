@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Polecam</orth>
+    <lex disamb="1"><base>polecać</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>LG</orth>
+    <lex disamb="1"><base>LG</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_pro" head="1">2</ann>
+   </tok>
+   <tok>
+    <orth>G3</orth>
+    <lex disamb="1"><base>G3</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_pro">2</ann>
+   </tok>
+   <tok>
+    <orth>Huawei</orth>
+    <lex disamb="1"><base>Huawei</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_pro">2</ann>
+   </tok>
+   <tok>
+    <orth>P7</orth>
+    <lex disamb="1"><base>P7</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_pro">2</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>chyba</orth>
+    <lex disamb="1"><base>chyba</base><ctag>qub</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>tak</orth>
+    <lex disamb="1"><base>tak</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>zwie</orth>
+    <lex disamb="1"><base>zwać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>xd</orth>
+    <lex disamb="1"><base>xd</base><ctag>interj</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>Nokia</orth>
+    <lex disamb="1"><base>Nokia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_pro" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>Lumia</orth>
+    <lex disamb="1"><base>Lumia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_pro">1</ann>
+   </tok>
+   <tok>
+    <orth>920</orth>
+    <lex disamb="1"><base>920</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_pro">1</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

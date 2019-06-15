@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Pobierz</orth>
+    <lex disamb="1"><base>pobrać</base><ctag>impt:sg:sec:perf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>aktualizacje</orth>
+    <lex disamb="1"><base>aktualizacja</base><ctag>subst:pl:acc:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>danych</orth>
+    <lex disamb="1"><base>dane</base><ctag>subst:pl:gen:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>płatnika</orth>
+    <lex disamb="1"><base>płatnik</base><ctag>subst:sg:gen:m1</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

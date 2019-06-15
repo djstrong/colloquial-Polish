@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Hahahahaha</orth>
+    <lex disamb="1"><base>hahahahaha</base><ctag>interj</ctag></lex>
+   </tok>
+   <tok>
+    <orth>chyba</orth>
+    <lex disamb="1"><base>chyba</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>coś</orth>
+    <lex disamb="1"><base>coś</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>koło</orth>
+    <lex disamb="1"><base>koło</base><ctag>prep:gen</ctag></lex>
+   </tok>
+   <tok>
+    <orth>pierwszego</orth>
+    <lex disamb="1"><base>pierwszy</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interj</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>D</orth>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

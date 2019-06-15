@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>gramy</orth>
+    <lex disamb="1"><base>grać</base><ctag>fin:pl:pri:imperf</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>CoD</orth>
+    <lex disamb="1"><base>CoD</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>kampanię</orth>
+    <lex disamb="1"><base>kampania</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>online</orth>
+    <lex disamb="1"><base>online</base><ctag>adv</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>Xbox</orth>
+    <lex disamb="1"><base>Xbox</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>One</orth>
+    <lex disamb="1"><base>One</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">1</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>pełny</orth>
+    <lex disamb="1"><base>pełny</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>ekran</orth>
+    <lex disamb="1"><base>ekran</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>zapowiedź</orth>
+    <lex disamb="1"><base>zapowiedź</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>live</orth>
+    <lex disamb="1"><base>live</base><ctag>subst:sg:acc:n</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>CS</orth>
+    <lex disamb="1"><base>CS</base><ctag>subst:sg:inst:n</ctag></lex>
+    <ann chan="nam_eve" head="1">1</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>with</orth>
+    <lex disamb="1"><base>with</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_eve">1</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>CameraFi</orth>
+    <lex disamb="1"><base>CameraFi</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_eve">1</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <tok>
+    <orth>Live</orth>
+    <lex disamb="1"><base>Live</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_eve">1</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_pro">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

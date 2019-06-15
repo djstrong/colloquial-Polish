@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>@</orth>
+    <lex disamb="1"><base>@</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>@user</orth>
+    <lex disamb="1"><base>@user</base><ctag>subst:sg:nom:m1</ctag></lex>
+   </tok>
+   <tok>
+    <orth>zrobić</orth>
+    <lex disamb="1"><base>zrobić</base><ctag>inf:perf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>włącz</orth>
+    <lex disamb="1"><base>włączyć</base><ctag>impt:sg:sec:perf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>one</orth>
+    <lex disamb="1"><base>one</base><ctag>xxx</ctag></lex>
+   </tok>
+   <tok>
+    <orth>thing</orth>
+    <lex disamb="1"><base>thing</base><ctag>xxx</ctag></lex>
+   </tok>
+   <tok>
+    <orth>poczujesz</orth>
+    <lex disamb="1"><base>poczuć</base><ctag>fin:sg:sec:perf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:acc:n</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

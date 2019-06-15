@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Tak</orth>
+    <lex disamb="1"><base>tak</base><ctag>adv:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>strzelić</orth>
+    <lex disamb="1"><base>strzelić</base><ctag>inf:perf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>karnego</orth>
+    <lex disamb="1"><base>karny</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+   </tok>
+   <tok>
+    <orth>wygrać</orth>
+    <lex disamb="1"><base>wygrać</base><ctag>inf:perf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>puchar</orth>
+    <lex disamb="1"><base>puchar</base><ctag>subst:sg:acc:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Game</orth>
+    <lex disamb="1"><base>game</base><ctag>xxx</ctag></lex>
+   </tok>
+   <tok>
+    <orth>of</orth>
+    <lex disamb="1"><base>of</base><ctag>xxx</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Thrones</orth>
+    <lex disamb="1"><base>thrones</base><ctag>xxx</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

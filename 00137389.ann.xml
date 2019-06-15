@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>@miejsce</orth>
+    <lex disamb="1"><base>@miejsce</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_num">0</ann>
+   </tok>
+   <tok>
+    <orth>ul</orth>
+    <lex disamb="1"><base>ulica</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_num">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_num">0</ann>
+   </tok>
+   <tok>
+    <orth>@miejsce</orth>
+    <lex disamb="1"><base>@miejsce</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="nam_fac" head="1">1</ann>
+    <ann chan="nam_num">0</ann>
+   </tok>
+   <tok>
+    <orth>@miejsce</orth>
+    <lex disamb="1"><base>@miejsce</base><ctag>num:pl:nom:f:congr</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_num" head="1">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_num">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>dodam</orth>
+    <lex disamb="1"><base>dodać</base><ctag>fin:sg:pri:perf</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_num">0</ann>
+   </tok>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_num">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>że</orth>
+    <lex disamb="1"><base>że</base><ctag>comp</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_num">0</ann>
+   </tok>
+   <tok>
+    <orth>od</orth>
+    <lex disamb="1"><base>od</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_num">0</ann>
+   </tok>
+   <tok>
+    <orth>soboty</orth>
+    <lex disamb="1"><base>sobota</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_num">0</ann>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_num">0</ann>
+   </tok>
+   <tok>
+    <orth>działa</orth>
+    <lex disamb="1"><base>działać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_num">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_num">0</ann>
+   </tok>
+   <tok>
+    <orth>jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_num">0</ann>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_num">0</ann>
+   </tok>
+   <tok>
+    <orth>bardzo</orth>
+    <lex disamb="1"><base>bardzo</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_num">0</ann>
+   </tok>
+   <tok>
+    <orth>uciążliwe</orth>
+    <lex disamb="1"><base>uciążliwy</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_num">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_num">0</ann>
+   </tok>
+   <tok>
+    <orth>dziękuję</orth>
+    <lex disamb="1"><base>dziękować</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_num">0</ann>
+   </tok>
+   <tok>
+    <orth>za</orth>
+    <lex disamb="1"><base>za</base><ctag>prep:acc</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_num">0</ann>
+   </tok>
+   <tok>
+    <orth>zainteresowania</orth>
+    <lex disamb="1"><base>zainteresowanie</base><ctag>subst:pl:acc:n</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_num">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_num">0</ann>
+   </tok>
+   <tok>
+    <orth>pozdrawiam</orth>
+    <lex disamb="1"><base>pozdrawiać</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_num">0</ann>
+   </tok>
+   <tok>
+    <orth>serdecznie</orth>
+    <lex disamb="1"><base>serdecznie</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_fac">0</ann>
+    <ann chan="nam_num">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

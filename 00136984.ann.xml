@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Powiedz</orth>
+    <lex disamb="1"><base>powiedzieć</base><ctag>impt:sg:sec:perf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>coś</orth>
+    <lex disamb="1"><base>coś</base><ctag>subst:sg:acc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>nowego</orth>
+    <lex disamb="1"><base>nowy</base><ctag>adj:sg:gen:n:pos</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>U</orth>
+    <lex disamb="1"><base>u</base><ctag>prep:gen</ctag></lex>
+   </tok>
+   <tok>
+    <orth>mnie</orth>
+    <lex disamb="1"><base>ja</base><ctag>ppron12:sg:gen:f:pri:akc</ctag></lex>
+   </tok>
+   <tok>
+    <orth>też</orth>
+    <lex disamb="1"><base>też</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>sprawdził</orth>
+    <lex disamb="1"><base>sprawdzić</base><ctag>praet:sg:m3:perf</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>!</orth>
+    <lex disamb="1"><base>!</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>Polecam</orth>
+    <lex disamb="1"><base>polecać</base><ctag>fin:sg:pri:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>ci</orth>
+    <lex disamb="1"><base>ty</base><ctag>ppron12:sg:dat:f:sec:nakc</ctag></lex>
+   </tok>
+   <tok>
+    <orth>tusz</orth>
+    <lex disamb="1"><base>tusz</base><ctag>subst:sg:acc:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>2000</orth>
+    <lex disamb="1"><base>2000</base><ctag>num:pl:acc:n:congr</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Calorie</orth>
+    <lex disamb="1"><base>Calorie</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex disamb="1"><base>calorie</base><ctag>subst:sg:gen:m3</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

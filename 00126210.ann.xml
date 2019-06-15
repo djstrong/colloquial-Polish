@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Ok</orth>
+    <lex disamb="1"><base>OK</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>zmierzę</orth>
+    <lex disamb="1"><base>zmierzyć</base><ctag>fin:sg:pri:perf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>syna</orth>
+    <lex disamb="1"><base>syn</base><ctag>subst:sg:acc:m1</ctag></lex>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+   </tok>
+   <tok>
+    <orth>dam</orth>
+    <lex disamb="1"><base>dać</base><ctag>fin:sg:pri:perf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>znać</orth>
+    <lex disamb="1"><base>znać</base><ctag>inf:imperf</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

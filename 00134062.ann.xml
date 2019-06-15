@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>EUR</orth>
+    <lex disamb="1"><base>eur</base><ctag>subst:sg:nom:f</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>/</orth>
+    <lex disamb="1"><base>/</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>SEK</orth>
+    <lex disamb="1"><base>SEK</base><ctag>ign</ctag></lex>
+   </tok>
+   <tok>
+    <orth>risks</orth>
+    <lex disamb="1"><base>risks</base><ctag>subst:sg:gen:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>extra</orth>
+    <lex disamb="1"><base>ekstra</base><ctag>ign</ctag></lex>
+   </tok>
+   <tok>
+    <orth>upside</orth>
+    <lex disamb="1"><base>upside</base><ctag>subst:sg:gen:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>–</orth>
+    <lex disamb="1"><base>–</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Danske</orth>
+    <lex disamb="1"><base>danske</base><ctag>subst:sg:nom:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Bank</orth>
+    <lex disamb="1"><base>bank</base><ctag>subst:sg:nom:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>@www</orth>
+    <lex disamb="1"><base>@www</base><ctag>subst:sg:nom:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>via</orth>
+    <lex disamb="1"><base>via</base><ctag>ign</ctag></lex>
+   </tok>
+   <tok>
+    <orth>FXStreet</orth>
+    <lex disamb="1"><base>fxstreet</base><ctag>subst:sg:nom:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>#</orth>
+    <lex disamb="1"><base>#</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>forex</orth>
+    <lex disamb="1"><base>forex</base><ctag>subst:sg:nom:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>#</orth>
+    <lex disamb="1"><base>#</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>fx</orth>
+    <lex disamb="1"><base>fx</base><ctag>subst:sg:nom:n</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

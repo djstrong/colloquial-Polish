@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>comp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>podaj</orth>
+    <lex disamb="1"><base>podać</base><ctag>impt:sg:sec:perf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>tego</orth>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:gen:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Skype</orth>
+    <lex disamb="1"><base>Skype</base><ctag>subst:sg:gen:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>porozmawiamy</orth>
+    <lex disamb="1"><base>porozmawiać</base><ctag>fin:pl:pri:perf</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>
